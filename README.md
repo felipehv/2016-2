@@ -33,9 +33,13 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
 
 ### Ayudantes
 
-| Nombre                | Github       | Email         |
-|:--------------------- |:-------------|:--------------|
-| Vicente Errázuriz Quiroga | [@Ghoeb](https://www.github.com/Ghoeb) | verrazuriz@uc.cl |
+| Nombre                | Github       |
+|:--------------------- |:-------------|
+| Vicente Dragicevic Hernández | [@vdrg](https://www.github.com/vdrg) |
+| Vicente Errázuriz Quiroga | [@Ghoeb](https://www.github.com/Ghoeb) |
+| Guillermo Figueroa Benitez | [@gafigueroa](https://www.github.com/gafigueroa) |
+| Josefina Hidalgo Jullian | [@josehj](https://www.github.com/josehj) |
+| Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
 
 
 ## Contenidos
