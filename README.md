@@ -74,9 +74,9 @@ Habrá 2 interrogaciones y un examen, donde se evaluarán los aspectos más teó
 
 | Evaluación | Fecha | 
 |:----------|:----------|
-| I1 | 14 de Abril a las 18:30 |
-| I2 | 9 de Mayo a las 17:00 |
-| Examen | 28 de Junio a las 9:00 |
+| I1 | 31 de Agosto a las 18:30 |
+| I2 | 3 de Octubre a las 18:30 |
+| Examen | 23 de Noviembre a las 9:00 |
 
 ### Tareas
 
