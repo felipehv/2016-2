@@ -100,7 +100,7 @@ double nota_final()
     double I1,I2,Ex;
 
     /* Promedio de tareas */
-    double NT = (T0 + T1 + T2 + T3 + T4) / 4;
+    double NT = (T0 + T1 + T2 + T3 + T4) / 5;
     /* Promedio de las interrogaciones */
     double NE = (I1 + I2 + 2 * Ex) / 4;
     
