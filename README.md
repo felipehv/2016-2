@@ -40,6 +40,7 @@ El curso utiliza el lenguaje de programación C, ya que éste permite trabajar d
 | Guillermo Figueroa Benitez | [@gafigueroa](https://www.github.com/gafigueroa) |
 | Josefina Hidalgo Jullian | [@josehj](https://www.github.com/josehj) |
 | Antonio López Larraechea | [@alopez7](https://www.github.com/alopez7) |
+| Rodrigo Gómez Araya | [@rkoco](https://www.github.com/rkoco) |
 
 
 ## Contenidos
