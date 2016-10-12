@@ -32,7 +32,7 @@ Un ejemplo con un puzzle de **8** x **8**
 En este caso, tenemos 3 bloques de hielo y un solo botón. A continuación se presenta el comportamiento de cada uno de los elementos del problema.
 
 | Elemento | Nombre | Comportamiento |
-| :-: | - |
+| :-: | - | - |
 | ![piso de hielo](assets/ice_floor.png) | Piso de hielo | Bloques de hielo en movimiento se deslizan sobre este tipo de celda, continuando su movimiento en esa dirección |
 | ![botón](assets/button.png) | Botón | Igual comportamiento que el piso de hielo. Tu objetivo es dejar un bloque de hielo encima de cada botón
 | ![antihielo](assets/anti_ice.png) | Piso Antihielo | La tecnología superior de este piso frena a los bloques de hielo que traten de pasar por celdas de este tipo |
