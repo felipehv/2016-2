@@ -1,6 +1,6 @@
 # Tarea 3
 
-Fecha de entrega: Viernes 28 de octubre 2016
+Fecha de entrega: Jueves 3 de noviembre 2016
 
 ## Objetivos
 
@@ -124,6 +124,9 @@ El archivo del puzzle de ejemplo sería entonces:
 # _ _ _ _ _ _ #
 # # # # # # # #
 ```
+Las celdas con un bloque de hielo son a la vez celdas con piso de hielo.
+
+Considera que `2 < w <= 18`, `2 < h <= 18`
 
 ## Output
 
@@ -170,6 +173,14 @@ Recuerda dejar ahı́ la versión final de tu tarea. No se permitirá entregar t
 
 A continuación, formas de aumentar la nota obtenida en tu tarea. Estos aplicarán solo si la nota involucrada es mayor
 o igual a 4.
+
+##### I wanna be the very best :notes: (+30% a la nota de Código)
+
+Se dará un bonus de 30% a la nota de código al alumno cuyo código sea el más veloz para resolver los tests. Si falla un test, quedará automáticamente descalificado. Para esto, se recomienda utilizar heurísticas. Pueden leer sobre heurísticas admisibles para implementar ID-A\* en lugar de ID-DFS.
+
+##### Gotta code fast (+5% a la nota Final)
+
+Los alumnos que entreguen en la fecha de entrega original el viernes 28 de octubre tendrán un bonus adicional. Deberán enviar un mail antes de esta fecha para que se les corrija esta versión.
 
 ##### Manejo de memoria perfecto (+5% a la nota de Código)
 
